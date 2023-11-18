@@ -4,5 +4,3 @@ deploy with : `docker-compose up -d`
 
 In Grafana *localhost:3000* 
 Use this URL for the data source prometheus : prometheus:9090
-
-Project made in November 2023
